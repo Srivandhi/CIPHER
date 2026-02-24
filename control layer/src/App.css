@@ -1,0 +1,16 @@
+/* src/App.css */
+
+.app-root {
+  min-height: 100vh;
+  height: 100vh;
+  background-color: #0f234c;
+  color: white;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+.loading-screen {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.75rem;
+}
